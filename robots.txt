@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cabinet
+Disallow: /auth/
+Disallow: /payment-
+Sitemap: https://insta.gpt-chat.by/sitemap.xml
